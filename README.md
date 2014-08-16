@@ -7,4 +7,8 @@ Usage
 -----
 
 ```adiumcat``` will display a list of all your buddies
+
 ```adiumcat BUDDY``` will cat the log of the conversation with said buddy
+
+
+(Disclaimer: It probably doesn't work perfectly =)
